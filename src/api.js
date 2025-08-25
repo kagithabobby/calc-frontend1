@@ -1,4 +1,4 @@
-export const BASEURL = "http://localhost:8080/";
+export const BASEURL = "http://localhost:8080/cicd-backend/";
 export function callApi(reqmethod, url, data, responseHandler)
 {
     let options = "";
